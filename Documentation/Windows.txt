@@ -1,0 +1,8 @@
+Install the dependencies and add to path the both pip install scripts and wkhtmltopdf
+
+If pip is not installed then install pip , then issue this command
+pip install pdfkit
+
+Go to http://wkhtmltopdf.org/downloads.html
+
+and download the x86/x64 depending upon your system
