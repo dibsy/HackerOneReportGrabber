@@ -5,3 +5,15 @@ If pip is not installed then install pip , then issue this command
 pip install beautifulsoup4
 pip install json2html
 
+How to use it
+
+Go inside the Code directory
+There is a file called grab.py
+Open it with any text editor
+Go to the 3rd Last Line . It looks like generateURL(9400,9500) 
+The first parameter is the lower range of report number and the second parameter is the upper range of the report parameter
+So set your preference accordingly
+
+Then run it as
+python grab.py 
+
