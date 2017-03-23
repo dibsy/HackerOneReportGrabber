@@ -48,3 +48,4 @@ def generateHTMLReports():
 generateURL(9400,9500) 
 validReportURL()
 generateHTMLReports()
+print "Reports Generated in current directory\n"
